@@ -82,10 +82,10 @@ public class Main {
             } else {
                 System.out.print(" " + arraySalary[o] + ",");
             }
+        System.out.println();
 
 
     }
-
     public static void task3() {
         int[] array = new int[3];
         array[0] = 3;
